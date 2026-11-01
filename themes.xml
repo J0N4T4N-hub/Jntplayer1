@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.JNT" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#080808</item>
+        <item name="android:colorBackground">#080808</item>
+    </style>
+</resources>
